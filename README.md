@@ -4,14 +4,14 @@ This script is used to gather the info about subdomains via bruteforce,then it w
 
 ## Installation and Uses.
 
-Very simple to use and install download a file called ```subenum.sh``` change the permission and run it or
+Very simple to use and install download a file called ```SubEnum.sh``` change the permission and run it or
 
 ```
-git clone https://github.com/r4hn1/SubEnum.git
-cd subenum
-chmod +x subenum.sh
-cp /opt/subenum/subenum.sh /usr/bin/subenum
-subenum
+# git clone https://github.com/r4hn1/SubEnum.git
+# cd SubEnum
+# chmod +x SubEnum.sh
+# cp /opt/subenum/SubEnum.sh /usr/bin/subenum
+# subenum
 ```
 
 ## Source Files
@@ -36,8 +36,8 @@ After completing the script process it will create a directory with domain name 
 And also create Five Files.
 
 ```
-example.com.txt					[Found Subdomain List]
-example.com.record.txt			[Records File]
+example.com.txt					  [Found Subdomain List]
+example.com.record.txt		[Records File]
 example.com.merge.txt			[Sorted and Unique complete data]
 example.com.final.txt			[Final filtered subdomain list]
 example.com.http.txt			[Http header list]
