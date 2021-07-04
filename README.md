@@ -53,5 +53,6 @@ Currently project is not yet finished, We are working on project to work more sm
 If you found any problem with the script or any suggetion to improve the performance.
 Kindly ping me on.<br>
 Twitter : [r4hn1](https://twitter.com/r4hn1)<br>
-LinkedIn : [r4hn1](https://www.linkedin.com/in/r4hn1/)
+LinkedIn : [r4hn1](https://www.linkedin.com/in/r4hn1/)<br><br>
+<a href="https://www.buymeacoffee.com/r4hn1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
