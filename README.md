@@ -35,13 +35,14 @@ https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
 After completing the script process it will create a directory with domain name in current directory.
 And also create Five Files.
 
-```
-example.com.txt					  [Found Subdomain List]
-example.com.record.txt		[Records File]
-example.com.merge.txt			[Sorted and Unique complete data]
-example.com.final.txt			[Final filtered subdomain list]
-example.com.http.txt			[Http header list]
-```
+File Name | Uses |
+----------|------|
+example.com.txt	|				  Found Subdomain List |
+example.com.record.txt	|	Records File |
+example.com.merge.txt		|	Sorted and Unique complete data |
+example.com.final.txt		|	Final filtered subdomain list |
+example.com.http.txt		|	Http header list |
+
 
 ## Updates
 
@@ -50,7 +51,7 @@ Currently project is not yet finished, We are working on project to work more sm
 ## Help
 
 If you found any problem with the script or any suggetion to improve the performance.
-Kindly ping me on.
-Twitter : [https://twitter.com/r4hn1]
-LinkedIn : [https://www.linkedin.com/in/r4hn1/]
+Kindly ping me on.<br>
+Twitter : [r4hn1](https://twitter.com/r4hn1)<br>
+LinkedIn : [r4hn1](https://www.linkedin.com/in/r4hn1/)
 
