@@ -7,7 +7,7 @@ This script is used to gather the info about subdomains via bruteforce,then it w
 Very simple to use and install download a file called ```subenum.sh``` change the permission and run it or
 
 ```
-git clone 
+git clone https://github.com/r4hn1/SubEnum.git
 cd subenum
 chmod +x subenum.sh
 cp /opt/subenum/subenum.sh /usr/bin/subenum
